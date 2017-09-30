@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Biochemia",
+    "subtitle": "chemiczne podstawy życia",
+    "background": "/data/biology/background-images/biochemia.jpg"
+  },
+  {
+    "title": "Cytologia",
+    "subtitle": "nauka o komórce",
+    "background": "/data/biology/background-images/cytologia.jpg"
+  },
+  {
+    "title": "Histologia",
+    "subtitle": "nauka o tkankach",
+    "background": "/data/biology/background-images/histologia.jpg"
+  }
+]
