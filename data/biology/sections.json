@@ -13,5 +13,10 @@
     "title": "Histologia",
     "subtitle": "nauka o tkankach",
     "background": "/data/biology/background-images/histologia.jpg"
+  },
+  {
+    "title": "Genetyka",
+    "subtitle": "nauka o dziedziczności i zmienności organizmów",
+    "background": "/data/biology/background-images/Genetyka.jpg"
   }
 ]
