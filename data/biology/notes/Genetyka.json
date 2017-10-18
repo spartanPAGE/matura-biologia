@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Podstawowe pojęcia stosowane w genetyce",
+    "subtitle": "szybkie wprowadzenie",
+    "background": "/data/biology/notes/background-images/Podstawowe pojęcia stosowane w genetyce.jpg",
+    "content": "/data/biology/notes/html/Podstawowe pojęcia stosowane w genetyce.html",
+    "quizTasks": [
+      {
+        "question": "Który opis pasuje do \"genotypu\"?",
+        "explanation": "Patrz np. na internecie",
+        "image": "",
+        "rightAnswers": [
+          "zestaw genów danego organizmu"
+        ],
+        "possibleAnswers": [
+          "zestaw genów danego organizmu",
+          "cechy organizmu będące wynikiem współdziałania genów i środowiska"
+        ]
+      }
+    ]
+  }
+]
