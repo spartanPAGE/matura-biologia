@@ -78,9 +78,9 @@
     ]
   },
   {
-    "title": "Kwasy nukleinowe: DNA i RNA",
-    "subtitle": "Schemat budowy i przebieg replikacji",
-    "background": "/data/biology/notes/background-images/Kwasy nukleinowe: DNA i RNA.jpg",
+    "title": "Kwasy nukleinowe",
+    "subtitle": "DNA, RNA, schemat budowy i przebieg replikacji",
+    "background": "/data/biology/notes/background-images/Kwasy nukleinowe.jpg",
     "content": "/data/biology/notes/html/Kwasy nukleinowe: DNA i RNA.html",
     "quizTasks": []
   }
