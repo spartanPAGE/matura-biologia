@@ -82,6 +82,61 @@
     "subtitle": "DNA, RNA, schemat budowy i przebieg replikacji",
     "background": "/data/biology/notes/background-images/Kwasy nukleinowe.jpg",
     "content": "/data/biology/notes/html/Kwasy nukleinowe.html",
-    "quizTasks": []
+    "quizTasks": [
+      {
+        "question": "Jakie zasady azotowe występują w DNA?",
+        "explanation": "tylko 4",
+        "image": "",
+        "rightAnswers": [
+          "adenina",
+          "tymina",
+          "guanina",
+          "cytozyna",
+          "adenina",
+          "tymina",
+          "guanina",
+          "cytozyna"
+        ],
+        "possibleAnswers": [
+          "adenina",
+          "tymina",
+          "guanina",
+          "cytozyna",
+          "uracyl"
+        ]
+      },
+      {
+        "question": "Jakie zasady azotowe występują w RNA?",
+        "explanation": "tylko 4",
+        "image": "",
+        "rightAnswers": [
+          "adenina",
+          "cytozyna",
+          "guanina",
+          "uracyl"
+        ],
+        "possibleAnswers": [
+          "adenina",
+          "cytozyna",
+          "guanina",
+          "uracyl",
+          "tymina"
+        ]
+      },
+      {
+        "question": "Który z wymienionych oznacza zasadę azotową połączoną wiązaniem glikozydowym z pentozą?",
+        "explanation": "nuklid to bardziej chemia, nukleoid to inaczej prokarion",
+        "image": "",
+        "rightAnswers": [
+          "nukleozyd"
+        ],
+        "possibleAnswers": [
+          "nukleozyd",
+          "nukleotyd",
+          "nuklid",
+          "nukleoid"
+        ]
+      }
+    ]
   }
 ]
