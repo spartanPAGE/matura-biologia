@@ -44,5 +44,12 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Podstawy genetyki klasycznej - Zasady dziedziczenia",
+    "subtitle": "Podstawowe prawa dziedziczenia cech",
+    "background": "/data/biology/notes/background-images/Podstawy genetyki klasycznej - Zasady dziedziczenia.jpg",
+    "content": "/data/biology/notes/html/Podstawy genetyki klasycznej - Zasady dziedziczenia.html",
+    "quizTasks": []
   }
 ]
