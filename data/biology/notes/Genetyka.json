@@ -50,6 +50,31 @@
     "subtitle": "Podstawowe prawa dziedziczenia cech",
     "background": "/data/biology/notes/background-images/Podstawy genetyki klasycznej - Zasady dziedziczenia.jpg",
     "content": "/data/biology/notes/html/Podstawy genetyki klasycznej - Zasady dziedziczenia.html",
-    "quizTasks": []
+    "quizTasks": [
+      {
+        "question": "O tym, że \"gamety zawierają po jednym allelu z każdej pary alleli\" mówi:",
+        "explanation": "",
+        "image": "",
+        "rightAnswers": [
+          "I prawo Mendla - prawo czystości gamet"
+        ],
+        "possibleAnswers": [
+          "I prawo Mendla - prawo czystości gamet",
+          "II prawo Mendla - prawo niezależnej segregacji cech"
+        ]
+      },
+      {
+        "question": "O tym, że \"allele dwóch różnych genów rozdzielane są do gamet niezależnie od siebie\" mówi:",
+        "explanation": "",
+        "image": "",
+        "rightAnswers": [
+          " II prawo Mendla - prawo niezależnej segregacji cech"
+        ],
+        "possibleAnswers": [
+          "I prawo Mendla - prawo czystości gamet",
+          " II prawo Mendla - prawo niezależnej segregacji cech"
+        ]
+      }
+    ]
   }
 ]
