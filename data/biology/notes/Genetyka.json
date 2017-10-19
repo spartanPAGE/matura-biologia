@@ -10,11 +10,37 @@
         "explanation": "Patrz np. na internecie",
         "image": "",
         "rightAnswers": [
+          "zestaw genów danego organizmu",
           "zestaw genów danego organizmu"
         ],
         "possibleAnswers": [
           "zestaw genów danego organizmu",
-          "cechy organizmu będące wynikiem współdziałania genów i środowiska"
+          "cechy organizmu będące wynikiem współdziałania genów i środowiska",
+          "odcinek DNA zawierający informację o kolejności aminokwasów w cząsteczce białka."
+        ]
+      },
+      {
+        "question": "\"odmiana genu ujawniająca się w fenotypie niezależnie od rodzaju drugiego allelu.\" to opis jakiego allelu?",
+        "explanation": "",
+        "image": "",
+        "rightAnswers": [
+          "Dominującego"
+        ],
+        "possibleAnswers": [
+          "Dominującego",
+          "Recesywnego"
+        ]
+      },
+      {
+        "question": "\"osobnik (lub komórka) posiadający dwa różne allele tego samego genu\" to opis homozygoty czy heterozygoty?",
+        "explanation": "",
+        "image": "",
+        "rightAnswers": [
+          "Heterozygoty"
+        ],
+        "possibleAnswers": [
+          "Heterozygoty",
+          "Homozygoty"
         ]
       }
     ]
