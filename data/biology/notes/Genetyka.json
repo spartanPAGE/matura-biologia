@@ -138,5 +138,26 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Kod genetyczny - cechy",
+    "subtitle": "",
+    "background": "/data/biology/notes/background-images/Kod genetyczny - cechy.jpg",
+    "content": "/data/biology/notes/html/Kod genetyczny - cechy.html",
+    "quizTasks": [
+      {
+        "question": "O czym mówi \"jednoznaczność\" kodu genetycznego?",
+        "explanation": "",
+        "image": "",
+        "rightAnswers": [
+          "3 nukleotydy to jeden kodon"
+        ],
+        "possibleAnswers": [
+          "3 nukleotydy to jeden kodon",
+          "jeden kodon wyznacza tylko jeden aminokwas",
+          "jeden aminokwas może być zapisany za pomocą kilku różnych kodonów"
+        ]
+      }
+    ]
   }
 ]
