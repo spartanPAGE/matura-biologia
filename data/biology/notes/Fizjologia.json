@@ -2,7 +2,7 @@
   {
     "title": "Płazińce i nicienie",
     "subtitle": "cechy budowy",
-    "background": "/data/biology/notes/background-images/Płazińce i nicienie.jpeg",
+    "background": "/data/biology/notes/background-images/Płazińce i nicienie.jpg",
     "content": "/data/biology/notes/html/Płazińce i nicienie.html",
     "quizTasks": [
       {
@@ -10,7 +10,8 @@
         "explanation": "Płazińce z wyjątkiem tasiemców - one nie posiadają mięśni skośnych!",
         "image": "",
         "rightAnswers": [
-          "tasiemce"
+          "wirki",
+          "przywry"
         ],
         "possibleAnswers": [
           "wirki",
