@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Płazińce i nicienie",
+    "subtitle": "cechy budowy",
+    "background": "/data/biology/notes/background-images/Płazińce i nicienie.jpeg",
+    "content": "/data/biology/notes/html/Płazińce i nicienie.html",
+    "quizTasks": [
+      {
+        "question": "Pokrycie ciała - których zwierząt dotyczy ten opis: \"wór powłokowo-mięśniowy: urzęsiony nabłonek, kilka warstw mięśni okrężnych, podłużnych i skośnych\"?",
+        "explanation": "Płazińce z wyjątkiem tasiemców - one nie posiadają mięśni skośnych!",
+        "image": "",
+        "rightAnswers": [
+          "tasiemce"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Pokrycie ciała: których zwierząt dotyczy ten opis - \"wór powłokowo-mięśniowy; nabłonek pokryty oskórkiem, wyłącznie mięśnie podłużne\"?",
+        "explanation": "Wirki i przywry mają dodatkowo mięśnie podłużne i skośne,\ntasiemce mają dodatkowo mięśnie okrężne.\nPierścienice są tutaj dla zmyłki.",
+        "image": "",
+        "rightAnswers": [
+          "nicienie"
+        ],
+        "possibleAnswers": [
+          "nicienie",
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Układ pokarmowy - jakich zwierząt dotyczy ten opis - \"silnie rozgałęzione jelito, brak otworu odbytowego\"?",
+        "explanation": "Podpowiedź: tylko odpowiedź jest prawidłowa;\nJelito przywr tworzy dwa rozgałęzione pnie,\ntasiemiec nie ma układu pokarmowego,\nnicienie mają drożny układ pomarmowy oraz nierozgałęzione jelito",
+        "image": "",
+        "rightAnswers": [
+          "wirki"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie"
+        ]
+      },
+      {
+        "question": "Układ pokarmowy - jakich zwierząt dotyczy ten opis - \"jelito tworzy dwa rozgałezione pnie, brak utworu odbytowego\"?",
+        "explanation": "Układ pokarmowy wirków jest silnie rozgałęziony ale jego jelito nie tworzy dwóch pni,\ntasiemce nie mają układu pokarmowego,\nnicienie mają drożny układ pokarmowy i nierozgałęzione jelito",
+        "image": "",
+        "rightAnswers": [
+          "przywry"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie"
+        ]
+      },
+      {
+        "question": "Układ pokarmowy - jakich zwierząt dotyczy ten opis - \"brak; pokarm wchłaniany całą powierzchnią ciała\"?",
+        "explanation": "wirki mają silnie rozgałęzione niedrożne jelito,\nniedrożne jelito przywr tworzy dwa rozgałęzione pnie,\nnicienie posiadają drożne nierozgałęzione jelito",
+        "image": "",
+        "rightAnswers": [
+          "tasiemce"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Układ pokarmowy - jakich zwierząt dotyczy ten opis - \"wykształcony przewód pokarmowy rozpoczynający się otworem gębowym, a zakończony odbytowym, brak rozgałęzień jelita\"?",
+        "explanation": "jelito wirków jest niedrożne i silnie rozgałęzione,\njelito przywr jest niedrożne, silnie rozgałęzione i tworzy dwa pnie,\ntasiemce nie posiadają układu pokarmowego",
+        "image": "",
+        "rightAnswers": [
+          "nicienie"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie"
+        ]
+      },
+      {
+        "question": "Układ nerwowy - jakich zwierząt dotyczy ten opis - \"dwa zwoje nerwowe i kilka pni nerwowych połączonych spoidłami\"?",
+        "explanation": "Pnie nerwowe przywr nie są połączone spoidłami,\ntasiemce mają dwa zwoje nerwowe lecz słabo wykształcone pnie nerwowe,\nnicienie posiadają obrączkę okołogardzielową i kilka pni nerwowych, z czego dwa lepiej wykształcone\n",
+        "image": "",
+        "rightAnswers": [
+          "wirki"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Układ nerwowy - jakich zwierząt dotyczy ten opis - \"dwa zwoje nerwowe i kilka pni nerwowych\"?",
+        "explanation": "Pnie nerwowe wirków są dodatkowo połączone spoidłami,\ntasiemce mają słąbo wykształcone pnie nerwowe,\nnicienie posiadają obrączkę okołogardzielową i kilka pni nerwowych, z czego dwa lepiej wykształcone",
+        "image": "",
+        "rightAnswers": [
+          "przywry"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Układ nerwowy - jakich zwierząt dotyczy ten opis - \"dwa zwoje nerwowe i słabo wykształcone pnie nerwowe\"?",
+        "explanation": "wirki mają normalnie wykształcone pnie nerwowe, podobnie jak i przywry;\nNicienie posiadają obrączkę okołogardzielową i kilka pni nerwowych, z czego dwa lepiej wykształcone",
+        "image": "",
+        "rightAnswers": [
+          "tasiemce"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie",
+          "pierścienice"
+        ]
+      },
+      {
+        "question": "Układ nerwowy - jakich zwierząt dotyczy ten opis - \"Obrączka okołogardzielowa i kilka pni nerwowych, z czego dwa lepiej wykształcone\"",
+        "explanation": "Przypomnij sobie \"poziom skomplikowania\" wymienionych organizmów i wybierz ten najbardziej skomplikowany",
+        "image": "",
+        "rightAnswers": [
+          "nicienie"
+        ],
+        "possibleAnswers": [
+          "wirki",
+          "przywry",
+          "tasiemce",
+          "nicienie"
+        ]
+      }
+    ]
+  }
+]
